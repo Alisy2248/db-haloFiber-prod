@@ -1,0 +1,181 @@
+{
+  "haloCustomer": [
+    {
+      "id": "1762290088750",
+      "name": "HAFIDH",
+      "location": "MBUYU MNENE",
+      "phone": "0653628347",
+      "AccNo": 0,
+      "totalFee": 0,
+      "paidAmount": 0,
+      "status": "New",
+      "accNo": 0,
+      "lastPayment": "2025-11-05"
+    },
+    {
+      "id": "1762290193017",
+      "name": "AMOUR",
+      "location": "MOMBASA",
+      "phone": "0676565256",
+      "AccNo": 0,
+      "totalFee": 0,
+      "paidAmount": 0,
+      "status": "New",
+      "accNo": 0,
+      "lastPayment": "2025-11-05"
+    },
+    {
+      "id": "1762290281659",
+      "name": "NURDIN",
+      "location": "KWA SHEIN MCHINA",
+      "phone": "0",
+      "AccNo": 0,
+      "totalFee": 0,
+      "paidAmount": 0,
+      "status": "New",
+      "accNo": 0,
+      "lastPayment": "2025-11-05"
+    },
+    {
+      "id": "1762290361274",
+      "name": "-------",
+      "location": "BUBUBU SKULI",
+      "phone": "0614071013",
+      "AccNo": 0,
+      "totalFee": 0,
+      "paidAmount": 0,
+      "status": "New",
+      "accNo": 0,
+      "lastPayment": "2025-11-05"
+    },
+    {
+      "id": "1762290404607",
+      "name": "-----------",
+      "location": "TOMONDO",
+      "phone": "0654360048",
+      "AccNo": 0,
+      "totalFee": 0,
+      "paidAmount": 0,
+      "status": "New",
+      "accNo": 0,
+      "lastPayment": "2025-11-05"
+    },
+    {
+      "id": "1762290456114",
+      "name": "----------------",
+      "location": "BUBUBU",
+      "phone": "0627414518",
+      "AccNo": 0,
+      "totalFee": 0,
+      "paidAmount": null,
+      "status": "New",
+      "accNo": 0,
+      "lastPayment": "2025-11-05"
+    },
+    {
+      "id": "1762290625010",
+      "name": "---------",
+      "location": "-----------",
+      "phone": "0772177445",
+      "AccNo": 0,
+      "totalFee": 0,
+      "paidAmount": 0,
+      "status": "New",
+      "accNo": 0,
+      "lastPayment": "2025-11-05"
+    },
+    {
+      "id": "1762290671687",
+      "name": "----------",
+      "location": "-----------",
+      "phone": "0777 731759",
+      "AccNo": 0,
+      "totalFee": 0,
+      "paidAmount": 0,
+      "status": "New",
+      "accNo": 0,
+      "lastPayment": "2025-11-05"
+    },
+    {
+      "id": "1762290705360",
+      "name": "-------------",
+      "location": "-------------",
+      "phone": "0776 527527",
+      "AccNo": 0,
+      "totalFee": 0,
+      "paidAmount": null,
+      "status": "New",
+      "accNo": 0,
+      "lastPayment": "2025-11-05"
+    },
+    {
+      "id": "1762290817160",
+      "name": "Eaque aut asperiores",
+      "location": "Molestias eveniet q",
+      "phone": "+1 (523) 434-2772",
+      "AccNo": 1234567890,
+      "totalFee": 98,
+      "paidAmount": 0,
+      "status": "Not Paid",
+      "accNo": 1234567890,
+      "lastPayment": "2025-11-05"
+    },
+    {
+      "id": "1762295024046",
+      "name": "Quia possimus sit ",
+      "location": "Magni sit impedit ",
+      "phone": "+1 (718) 471-2407",
+      "AccNo": null,
+      "totalFee": 70,
+      "paidAmount": 0,
+      "status": "New",
+      "accNo": null,
+      "lastPayment": "2025-11-05"
+    },
+    {
+      "id": "1762323636318",
+      "name": "Perferendis eveniet",
+      "location": "Iusto officia saepe ",
+      "phone": "+1 (196) 863-8151",
+      "AccNo": 66,
+      "totalFee": 18,
+      "paidAmount": 900,
+      "status": "Paid",
+      "accNo": 66,
+      "lastPayment": "2025-11-05"
+    }
+  ],
+  "users": [
+    {
+      "id": "992b",
+      "fullName": "Shaaban Yahya Ali",
+      "email": "shaabanbrilliant@gmail.com",
+      "phone": "0655908547",
+      "password": "Sa@123",
+      "profilePicture": "data:image/jpeg;base64,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"
+    }
+  ],
+  "profile": [
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "role": "user",
+      "img": "assets/images/settings.png"
+    }
+  ],
+  "roles": [
+    {
+      "id": "3557",
+      "roleName": "Admin",
+      "roleType": "admin",
+      "description": "Amin Mkuu"
+    },
+    {
+      "id": "8734",
+      "roleName": "heche",
+      "roleType": "admin",
+      "description": "jkbqjck"
+    }
+  ]
+}
